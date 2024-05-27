@@ -1,0 +1,34 @@
+.caja {
+	background-color: brown;
+
+	/*la propiedad width se encarga del ancho del contenido*/
+	width: 300px;
+
+	/* la propiedad Height se encarga de el alto del contenido*/
+	height: 300px;
+
+	/*Padding se encarga de darle la separacion de nuestro contenido al borde*/
+	padding: 50px;
+
+	/* Padding-top solo le da separacion en la parte de arriba */
+	/* padding-top: 10px; */
+
+	/* Padding-left solo le da separacion en la parte de la izquierda*/
+	/* padding-left: 15px; */
+
+	/* Padding-rigth solo le da separacion en la parte de la derecha */
+	/* padding-right: 12px; */
+
+	/* Padding-bottom solo le da separacion en la parte de abajo */
+	/* padding-bottom: 8px; */
+	/* 
+	border-style: solid;
+	border-color: black;
+	border-width: 2px; */
+
+	border: 2px solid black;
+	border-radius: 6px;
+
+	margin-left: 40px;
+	margin-top: 40px;
+}
